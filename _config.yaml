@@ -1,0 +1,4 @@
+title: Mia's Blog
+description: "A simple blog about disc golf and more."
+url: "https://meeeyuh.github.io"
+permalink: /blog/:year/:month/:day/:title/
