@@ -42,7 +42,7 @@ h6 {
 
 /* Links with Crosshairs */
 a {
-    color: #00bcd4;
+    color: #ff4081;
     text-decoration: none;
     cursor: crosshair;
 }
@@ -73,10 +73,38 @@ footer {
     background: #1a1a1a;
 }
 
-/* Fix bullet point alignment */
+/* Bullet point alignment fix */
 ul, ol {
-    padding-left: 20px; /* Adjust spacing to align with main content */
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 700px; /* Match the content width */
+    padding-left: 1.5em; /* Adjust the indentation */
+    margin-left: 0; /* Remove any extra margin */
+    list-style-position: inside; /* Ensures bullets align with text */
+}
+
+/* Navigation Menu */
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ddd; /* Light gray text */
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffcc00; /* Highlight color */
+    cursor: crosshair; /* Crosshair effect */
 }
