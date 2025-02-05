@@ -3,9 +3,6 @@ title: "About"
 permalink: /about/
 ---
 
-# About Me
+# About Mi
 
-Hi! I'm Mia, and this is my blog. I write about disc golf, life, and random thoughts.
-
-- [Back to Home](index.md)
-- [To the Blog](blog.md)
+What is it that you *really* wanna know? 🤔

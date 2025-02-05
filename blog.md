@@ -3,15 +3,12 @@ title: "Blog"
 permalink: /blog/
 ---
 
-# Blog Posts
+# My Thoughts
 
-Here are my latest posts:
+Check out my latest posts below:
 
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
   {% endfor %}
 </ul>
-
-- [Back to Home](index.md)
-- [About Mi](about.md)
