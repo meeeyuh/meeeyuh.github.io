@@ -8,6 +8,10 @@
 </head>
 <body>
 
+    <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+    </header>
+
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
@@ -16,17 +20,39 @@
         </ul>
     </nav>
 
-    <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-    </header>
+    <div class="container">
+        <aside class="sidebar">
+            <!-- Search Bar -->
+            <input type="text" id="search-input" placeholder="Search..." />
+            <ul id="search-results"></ul>
 
-    <main>
-        {{ content }}
-    </main>
+            <!-- Recent Posts -->
+            <h3>Recent Posts</h3>
+            <ul>
+                {% for post in site.posts limit:5 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+
+            <!-- Additional Links -->
+            <h3>Quick Links</h3>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="/about/">About</a></li>
+            </ul>
+        </aside>
+
+        <main>
+            {{ content }}
+        </main>
+    </div>
 
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} dgmi</p>
     </footer>
+
+    <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
 
 </body>
 </html>
