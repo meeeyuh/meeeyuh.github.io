@@ -13,5 +13,5 @@ Here are my latest posts:
   {% endfor %}
 </ul>
 
-[Back to Home](index.md)
-[About Mi](about.md)
+- [Back to Home](index.md)
+- [About Mi](about.md)
