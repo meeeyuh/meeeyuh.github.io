@@ -24,15 +24,19 @@ Disc golf has become a huge part of my life, not just as a sport but as a mirror
 This blog is a place to document those lessons, offer encouragement, and remind anyone reading that growth is never linear—but it’s always worth it.
 </details>
 
+---
+
 <details> 
-<summary>💡 What You'll Find Here</summary>
+<summary>## 💡 What You'll Find Here</summary>
  - **Personal reflections** on self-worth, resilience, and overcoming setbacks 
  - **Disc golf tournament experiences** and lessons learned on and off the course 
  - **Snapshots of my journey**, including struggles, breakthroughs, and everything in between 
 </details>
 
+---
+
 <details> 
-<summary>🏆 My Disc Golf Journey</summary> 
+<summary>## 🏆 My Disc Golf Journey</summary> 
 I’ve been competing in professional tournaments the past few years, constantly pushing myself to **play the course, not the competition** — though that’s easier said than done!
 
 My goal is rarely to win (though, let’s be honest, that’s nice too 🥹), but to become the best version of myself through the sport. Disc golf has taught me patience, adaptability, and how to stay present.
@@ -40,29 +44,35 @@ My goal is rarely to win (though, let’s be honest, that’s nice too 🥹), bu
 I also track my disc golf progress meticulously, from tournament milestones to the exact lifespan of my discs. (Yes, spreadsheets are my love language. 🖤📊)
 </details>
 
+---
+
 <details> 
-<summary>📊 My Other Passion Projects</summary> 
+<summary>## 📊 My Other Passion Projects</summary> 
 Outside of disc golf, I love **tracking random data** and creating structured ways to measure growth. My **"Year of 36"** project is one of my biggest undertakings—an annual reflection and goal-setting system inspired by Groundhog Day Resolutions.
 
 I've always got some ideas and new things I'd like to try up my sleeve...
 </details>
 
+---
+
 <details>
-<summary>🎭 Fun Facts About Me</summary> 
+<summary>## 🎭 Fun Facts About Me</summary> 
 - **Favorite disc golf course?** Mmm, this one's always up in the air. I'm never mad about making the trek to play [Dogwood](https://udisc.com/courses/lindsey-park-dgc-dogwood-yellow-Xv7q) or [The Beast](https://udisc.com/courses/brazos-park-east-the-b-east-uzjl).  
 - **Most humbling tournament moment?** Ha - I could probably make a whole post on these alone. #StayHumble 
 - **Biggest lesson learned this year?** Compassion starts with yourself. 
 - **I love:** Skull designs, deep conversations, and breaking limiting beliefs. 
 </details>
 
+---
+
 <details> 
-<summary>📄 View My Resume</summary>
-[Download My Resume](/assets/files/Resume-Mia-Lofton.pdf) 
+<summary>## 📄 View My Resume</summary>
+![Download My Resume](/assets/files/Resume-Mia-Lofton.pdf) 
 </details>
 
 ---
 
-Let’s Connect!
+### Let’s Connect!
 
 I’d love to hear from you! Whether you want to chat about disc golf, personal growth, or just share your own journey, feel free to reach out.
 
