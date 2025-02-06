@@ -73,7 +73,7 @@ I've always got some ideas and new things I'd like to try up my sleeve...
 <details> 
 <summary>📄 View My Resume</summary>
 <h2>View My Resume</h2>
-  [Download My Resume](assets/files/Resume-Mia-Lofton.pdf)
+<a href="assets/files/Resume-Mia-Lofton.pdf" download>Download My Resume</a>
 </details>
 
 ---
