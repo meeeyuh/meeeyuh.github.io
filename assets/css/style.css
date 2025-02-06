@@ -106,7 +106,36 @@ main {
 
 /* Image Styling */
 img {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     border-radius: 8px;
 }
+
+/* Collapsible Sections */
+details {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  details summary {
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+  
+  details:hover {
+    background-color: #e0e0e0;
+  }
+  
+  details p {
+    font-size: 1em;
+    line-height: 1.5em;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }  

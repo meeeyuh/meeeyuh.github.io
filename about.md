@@ -11,12 +11,13 @@ This space is where I explore self-compassion, personal growth, and disc golf - 
 
 I believe in the power of mindset, resilience, and the simple yet profound act of being kind to yourself. Whether you’re here for disc golf insights, personal reflections, or just a dose of shameless optimism, I’m glad you stopped by!
 
-![Mia - the author of the blog](assets/images/Mi-Digital.jpg)
+<img src="assets/images/Mi-Digital.jpg" alt="Mia - the author of the blog" width="300">
 
 ---
 
 <details> 
-<summary>🌱 Why I Started This Blog</summary> 
+<summary>🌱 Why I Started This Blog</summary>
+<h2>Why I Started This Blog</h2>
 For most of my life, I’ve been on a path of constant growth — sometimes intentional, sometimes chaotic. I’ve learned that **self-compassion is the foundation for progress**, and I wanted a space to share that journey.
 
 Disc golf has become a huge part of my life, not just as a sport but as a mirror for self-improvement. Through every throw, win, and misstep, I see reflections of persistence, self-doubt, and the power of showing up for myself.
@@ -27,7 +28,8 @@ This blog is a place to document those lessons, offer encouragement, and remind 
 ---
 
 <details> 
-<summary>## 💡 What You'll Find Here</summary>
+<summary>💡 What You'll Find Here</summary>
+<h2>What You'll Find Here</h2>
  - **Personal reflections** on self-worth, resilience, and overcoming setbacks 
  - **Disc golf tournament experiences** and lessons learned on and off the course 
  - **Snapshots of my journey**, including struggles, breakthroughs, and everything in between 
@@ -36,7 +38,8 @@ This blog is a place to document those lessons, offer encouragement, and remind 
 ---
 
 <details> 
-<summary>## 🏆 My Disc Golf Journey</summary> 
+<summary>🏆 My Disc Golf Journey</summary>
+<h2>My Disc Golf Journey</h2>
 I’ve been competing in professional tournaments the past few years, constantly pushing myself to **play the course, not the competition** — though that’s easier said than done!
 
 My goal is rarely to win (though, let’s be honest, that’s nice too 🥹), but to become the best version of myself through the sport. Disc golf has taught me patience, adaptability, and how to stay present.
@@ -47,7 +50,8 @@ I also track my disc golf progress meticulously, from tournament milestones to t
 ---
 
 <details> 
-<summary>## 📊 My Other Passion Projects</summary> 
+<summary>📊 My Other Passion Projects</summary> 
+<h2>My Other Passion Projects</h2>
 Outside of disc golf, I love **tracking random data** and creating structured ways to measure growth. My **"Year of 36"** project is one of my biggest undertakings—an annual reflection and goal-setting system inspired by Groundhog Day Resolutions.
 
 I've always got some ideas and new things I'd like to try up my sleeve...
@@ -56,7 +60,8 @@ I've always got some ideas and new things I'd like to try up my sleeve...
 ---
 
 <details>
-<summary>## 🎭 Fun Facts About Me</summary> 
+<summary>🎭 Fun Facts About Me</summary>
+<h2>Fun Facts About Me</h2> 
 - **Favorite disc golf course?** Mmm, this one's always up in the air. I'm never mad about making the trek to play [Dogwood](https://udisc.com/courses/lindsey-park-dgc-dogwood-yellow-Xv7q) or [The Beast](https://udisc.com/courses/brazos-park-east-the-b-east-uzjl).  
 - **Most humbling tournament moment?** Ha - I could probably make a whole post on these alone. #StayHumble 
 - **Biggest lesson learned this year?** Compassion starts with yourself. 
@@ -66,8 +71,9 @@ I've always got some ideas and new things I'd like to try up my sleeve...
 ---
 
 <details> 
-<summary>## 📄 View My Resume</summary>
-![Download My Resume](/assets/files/Resume-Mia-Lofton.pdf) 
+<summary>📄 View My Resume</summary>
+<h2>View My Resume</h2>
+  [Download My Resume](assets/files/Resume-Mia-Lofton.pdf)
 </details>
 
 ---
