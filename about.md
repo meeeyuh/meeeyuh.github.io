@@ -86,7 +86,7 @@ I've always got some ideas and new things I'd like to try up my sleeve...
 
 I’d love to hear from you! Whether you want to chat about disc golf, personal growth, or just share your own journey, feel free to reach out.
 
-- 📧 [E-mail](dgmi116281@gmail.com)
+- [E-mail](mailto:dgmi116281@gmail.com)
 - [Facebook](https://www.facebook.com/dgmi116281)
 - [Instagram](https://www.instagram.com/dgmi_/)
 - [PDGA 116281](https://www.pdga.com/player/116281)
