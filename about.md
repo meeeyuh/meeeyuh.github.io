@@ -18,11 +18,11 @@ I believe in the power of mindset, resilience, and the simple yet profound act o
 <details> 
 <summary>🌱 Why I Started This Blog</summary>
 <h2>Why I Started This Blog</h2>
-For most of my life, I’ve been on a path of constant growth — sometimes intentional, sometimes chaotic. I’ve learned that <b>self-compassion is the foundation for progress</b>, and I wanted a space to share that journey.
-
-Disc golf has become a huge part of my life, not just as a sport but as a mirror for self-improvement. Through every throw, win, and misstep, I see reflections of persistence, self-doubt, and the power of showing up for myself.
-
-This blog is a place to document those lessons, offer encouragement, and remind anyone reading that growth is never linear—but it’s always worth it.
+For most of my life, I’ve been on a path of constant growth — sometimes intentional, sometimes chaotic. I’ve learned that <b>self-compassion is the foundation for progress</b>, and I wanted a space to share that journey.<br>
+<br>
+Disc golf has become a huge part of my life, not just as a sport but as a mirror for self-improvement. Through every throw, win, and misstep, I see reflections of persistence, self-doubt, and the power of showing up for myself.<br>
+<br>
+This blog is a place to document those lessons, offer encouragement, and remind anyone reading that growth is never linear—but it’s always worth it.<br>
 </details>
 
 ---
@@ -42,10 +42,10 @@ This blog is a place to document those lessons, offer encouragement, and remind 
 <details> 
 <summary>🏆 My Disc Golf Journey</summary>
 <h2>My Disc Golf Journey</h2>
-I’ve been competing in professional tournaments the past few years, constantly pushing myself to <i>play the course, not the competition</i> — though that’s easier said than done!
-
-My goal is rarely to win (though, let’s be honest, that’s nice too 🥹), but to become the best version of myself through the sport. Disc golf has taught me patience, adaptability, and how to stay present.
-
+I’ve been competing in professional tournaments the past few years, constantly pushing myself to <i>play the course, not the competition</i> — though that’s easier said than done!<br>
+<br>
+My goal is rarely to win (though, let’s be honest, that’s nice too 🥹), but to become the best version of myself through the sport. Disc golf has taught me patience, adaptability, and how to stay present.<br>
+<br>
 I also track my disc golf progress meticulously, from tournament milestones to the exact lifespan of my discs. (Yes, spreadsheets are my love language. 🖤📊)
 </details>
 
@@ -54,8 +54,8 @@ I also track my disc golf progress meticulously, from tournament milestones to t
 <details> 
 <summary>📊 My Other Passion Projects</summary> 
 <h2>My Other Passion Projects</h2>
-Outside of disc golf, I love <i>tracking random data</i> and creating structured ways to measure growth. My <b>"Year of 36"</b> project is one of my biggest undertakings—an annual reflection and goal-setting system inspired by Groundhog Day Resolutions.
-
+Outside of disc golf, I love <i>tracking random data</i> and creating structured ways to measure growth. My <b>"Year of 36"</b> project is one of my biggest undertakings—an annual reflection and goal-setting system inspired by Groundhog Day Resolutions.<br>
+<br>
 I've always got some ideas and new things I'd like to try up my sleeve...
 </details>
 
