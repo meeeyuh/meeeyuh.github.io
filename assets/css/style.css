@@ -166,3 +166,22 @@ details summary::marker {
 #blog-controls button:hover {
     background: #ff80ab;
 }
+
+.content-box {
+    background-color: #1e1e1e; /* Dark background to match theme */
+    color: #d0d0d0;
+    border: 2px solid #80d5e0; /* Light blue border */
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(128, 213, 224, 0.2);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Subtle hover effect */
+.content-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 15px rgba(128, 213, 224, 0.4);
+}
