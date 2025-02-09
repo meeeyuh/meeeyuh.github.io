@@ -24,14 +24,23 @@ title: "Home"
 </div>
 
 <div class="content-box">
-    <h5>Other Ways to Contact Mi 📱</h5>
-    <ul>
-        <li><a href="mailto:dgmi116281@gmail.com">E-mail</a></li>
-        <li><a href="https://www.facebook.com/dgmi116281" target="_blank">Facebook</a></li>
-        <li><a href="https://www.instagram.com/dgmi_/" target="_blank">Instagram</a></li>
-        <li><a href="https://www.pdga.com/player/116281" target="_blank">PDGA 116281</a></li>
-    </ul>
+    <h5>Contact Mi 📱</h5>
+    <div class="contact-links">
+        <a href="mailto:dgmi116281@gmail.com" class="contact-button email">
+            <i class="fas fa-envelope"></i> Email Mi
+        </a>
+        <a href="https://www.facebook.com/dgmi116281" target="_blank" class="contact-button facebook">
+            <i class="fab fa-facebook-f"></i> Facebook
+        </a>
+        <a href="https://www.instagram.com/dgmi_/" target="_blank" class="contact-button instagram">
+            <i class="fab fa-instagram"></i> Instagram
+        </a>
+        <a href="https://www.pdga.com/player/116281" target="_blank" class="contact-button pdga">
+            <i class="fas fa-disc-golf"></i> PDGA 116281
+        </a>
+    </div>
 </div>
+
 
 <div class="content-box">
     <h6>See You Soon!</h6>
