@@ -25,7 +25,7 @@ I'm not sure what I expected my first blog post to contain—but I'm pretty sure
 
 ---
 
-## Life-Altering Events
+#### Life-Altering Events
 ---
 In the past couple of weeks, I've had a handful of actual life-altering events occur in my life. Maybe even more than that if you pull back the timeframe to the very beginning of the year. Honestly, let's just call it an even three:
 
@@ -39,7 +39,7 @@ Right now, I'm doing my damndest to find a happy medium—to establish a new sta
 
 ---
 
-## Navigating Grief
+#### Navigating Grief
 ---
 
 Death has stirred a variety of emotions in me in the past. Typically, I leaned more toward the depressive side of the spectrum. I let myself succumb to grief and used it as a crutch for self-destruction.
@@ -52,7 +52,7 @@ I refused support. I shut everyone out and built a wall hundreds of feet high. F
 
 ---
 
-## Shifting Perspective
+#### Shifting Perspective
 ---
 
 But this time, when we got the call that things were taking a turn for the worse, I found myself in a very different place than years prior—mostly mentally (but even physically).
@@ -61,7 +61,7 @@ The biggest difference? I actively **sought out** the comfort of my relationship
 
 ---
 
-## Gratitude Through Grief
+#### Gratitude Through Grief
 ---
 
 Navigating the highs and lows of the past six-ish weeks has been easier knowing I’m not alone in this crazy world. It also helped me avoid sinking too deep into my own misery because I kept an open ear and eye for what was happening in _their_ lives, too. That gave me a healthy perspective and, more than anything, reminded me to be **grateful.**
@@ -71,3 +71,14 @@ And right now, I’m **so** grateful. I’m humbled. I’m blessed with so many 
 But—I’m here. And I’m so happy about that.
 
 🖤
+
+---
+
+#### How Can You Help?
+---
+
+Since I went into a whole spiel about leaning on my circle of support - it doesn't hurt to ask.
+
+If you feel so inclined to help the family and contribute (literally ANYTHING), the GoFundMe link can be found [HERE](https://www.gofundme.com/manage/in-honor-of-erica-renee-gonzales).
+
+I also sincerely mean it when I say even something "as small" as sharing with your friends or by word of mouth - it goes so incredibly far.
