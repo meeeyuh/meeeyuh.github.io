@@ -4,7 +4,7 @@ title: "Blog"
 permalink: /blog/
 ---
 
-# My Thoughts
+## My Thoughts
 
 Choose how you’d like to browse my blog:
 
