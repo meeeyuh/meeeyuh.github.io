@@ -219,3 +219,11 @@ details summary::marker {
 .facebook { background: #1877F2; color: white; }
 .instagram { background: #E1306C; color: white; }
 .pdga { background: #004B87; color: white; }
+
+.image-description {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+    text-align: center;
+}
