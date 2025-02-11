@@ -14,14 +14,14 @@ Choose how you’d like to browse my blog:
 </div>
 
 <div id="posts-by-date">
-  <h2>Latest Posts</h2>
+  <h3>Latest Posts</h3>
   <div class="blog-grid">
     {% for post in site.posts %}
       <a href="{{ post.url }}" class="blog-card">
         {% if post.image %}
           <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
             <div class="blog-card-text">
-              <h3>{{ post.title }}</h3>
+              <h4>{{ post.title }}</h4>
               <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
             </div>
           </div>
@@ -32,12 +32,12 @@ Choose how you’d like to browse my blog:
 </div>
 
 <div id="posts-by-category" style="display: none;">
-  <h2>Browse by Category</h2>
+  <h3>Browse by Category</h3>
 
   {% assign categories = "Disc Golf, Life Lessons, Health + Wellness, Ramblings" | split: ", " %}
 
   {% for category in categories %}
-    <h3>{{ category }}</h3>
+    <h4>{{ category }}</h4>
     <div class="blog-grid">
       {% for post in site.posts %}
         {% if post.categories contains category %}
@@ -45,7 +45,7 @@ Choose how you’d like to browse my blog:
             {% if post.image %}
               <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
                 <div class="blog-card-text">
-                  <h3>{{ post.title }}</h3>
+                  <h5>{{ post.title }}</h5>
                   <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
                 </div>
               </div>
