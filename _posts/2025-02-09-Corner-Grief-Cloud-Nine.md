@@ -18,7 +18,7 @@ tags:
 header:
     image: /assets/images/posts/20250209-Crossroads.jpg
     alt: "A person approaching a crossroads in the forest"
-    caption: "Photo by [Vladislav Babienko](https://unsplash.com/@garri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/man-standing-in-the-middle-of-woods-KTpSVEcU0XU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)  
+    caption: "Photo by [Vladislav Babienko](https://unsplash.com/@garri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/man-standing-in-the-middle-of-woods-KTpSVEcU0XU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 permalink: /blog/2025-02-09-Corner-Grief-Cloud-Nine/
 ---
 I'm not sure what I expected my first blog post to contain—but I'm pretty sure it wasn't this.
