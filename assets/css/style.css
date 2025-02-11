@@ -227,3 +227,13 @@ details summary::marker {
     margin-top: 5px;
     text-align: center;
 }
+
+/* Increase the line spacing for readability */
+body, p, li {
+    line-height: 1.6; /* Adjust the number to your preference, 1.6 is a good standard */
+}
+
+/* Add space between paragraphs */
+p {
+    margin-bottom: 1.5em; /* Adjust the number to your preference */
+}
