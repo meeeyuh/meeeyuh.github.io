@@ -15,43 +15,48 @@ Choose how you’d like to browse my blog:
 
 <div id="posts-by-date">
   <h2>Latest Posts</h2>
-  <ul>
+  <div class="blog-grid">
     {% for post in site.posts %}
-      <li class="blog-post-item">
+      <a href="{{ post.url }}" class="blog-card">
         {% if post.image %}
-          <a href="{{ post.url }}">
-            <img src="{{ post.image }}" alt="{{ post.title }}" class="blog-thumbnail">
-          </a>
+          <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
+            <div class="blog-card-text">
+              <h3>{{ post.title }}</h3>
+              <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            </div>
+          </div>
         {% endif %}
-        <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})
-      </li>
+      </a>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 
 <div id="posts-by-category" style="display: none;">
   <h2>Browse by Category</h2>
 
-  {% assign categories = "Disc Golf, Life Lessons, Health, Wellness, Ramblings" | split: ", " %}
+  {% assign categories = "Disc Golf, Life Lessons, Health + Wellness, Ramblings" | split: ", " %}
 
   {% for category in categories %}
     <h3>{{ category }}</h3>
-    <ul>
+    <div class="blog-grid">
       {% for post in site.posts %}
         {% if post.categories contains category %}
-          <li class="blog-post-item">
+          <a href="{{ post.url }}" class="blog-card">
             {% if post.image %}
-              <a href="{{ post.url }}">
-                <img src="{{ post.image }}" alt="{{ post.title }}" class="blog-thumbnail">
-              </a>
+              <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
+                <div class="blog-card-text">
+                  <h3>{{ post.title }}</h3>
+                  <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+                </div>
+              </div>
             {% endif %}
-            <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})
-          </li>
+          </a>
         {% endif %}
       {% endfor %}
-    </ul>
+    </div>
   {% endfor %}
 </div>
+
 
 <script>
   function showByDate() {
