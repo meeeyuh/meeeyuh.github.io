@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Blog"
 permalink: /blog/
 ---
@@ -16,7 +17,12 @@ Choose how you’d like to browse my blog:
   <h2>Latest Posts</h2>
   <ul>
     {% for post in site.posts %}
-      <li>
+      <li class="blog-post-item">
+        {% if post.image %}
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="blog-thumbnail">
+          </a>
+        {% endif %}
         <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})
       </li>
     {% endfor %}
@@ -26,14 +32,19 @@ Choose how you’d like to browse my blog:
 <div id="posts-by-category" style="display: none;">
   <h2>Browse by Category</h2>
 
-  {% assign categories = "Disc Golf, Life Lessons, Health + Wellness, Ramblings" | split: ", " %}
+  {% assign categories = "Disc Golf, Life Lessons, Health, Wellness, Ramblings" | split: ", " %}
 
   {% for category in categories %}
     <h3>{{ category }}</h3>
     <ul>
       {% for post in site.posts %}
         {% if post.categories contains category %}
-          <li>
+          <li class="blog-post-item">
+            {% if post.image %}
+              <a href="{{ post.url }}">
+                <img src="{{ post.image }}" alt="{{ post.title }}" class="blog-thumbnail">
+              </a>
+            {% endif %}
             <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})
           </li>
         {% endif %}

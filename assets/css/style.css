@@ -237,3 +237,27 @@ body, p, li {
 p {
     margin-bottom: 1.5em; /* Adjust the number to your preference */
 }
+
+.post-featured-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.blog-thumbnail {
+    width: 100%;
+    max-width: 250px; /* Adjust size as needed */
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: block;
+}
+.blog-post-item {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+
