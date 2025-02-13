@@ -77,7 +77,7 @@ I've always got some ideas and new things I'd like to try up my sleeve...
 <details> 
 <summary>📄 View My Resume</summary>
 <h2>View My Resume</h2>
-<a href="https://meeeyuh.github.io/assets/files/Resume-Mia-Lofton.pdf" download>Download My Resume</a>
+<a href="https://meeeyuh.github.io/assets/files/Resume-Mia-Lofton-2025.pdf" download>Download My Resume</a>
 </details>
 
 ---
