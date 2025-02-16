@@ -15,6 +15,15 @@ title: "Home"
 
 <div class="content-box">
     <h3>Recent Posts ✍🏽</h3>
+        <div class="blog-grid">
+        <a href="/blog/2025-02-14-The-Truth/" class="blog-card">
+            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250214-TheTruth-Sun.jpg');"></div>
+            <div class="blog-card-text">
+                <p>On the Corner of Grief and Cloud Nine</p>
+                <p class="post-date">Feb 09, 2025</p>
+            </div>
+        </a>
+    </div>
     <div class="blog-grid">
         <a href="/blog/2025-02-09-Corner-Grief-Cloud-Nine/" class="blog-card">
             <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250209-Crossroads.jpg');"></div>
