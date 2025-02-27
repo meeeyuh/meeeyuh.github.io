@@ -38,6 +38,7 @@ Allow me to set the scene for you: this is one of my absolute favorite disc golf
 The first seven holes hug the lakeside - stunning, but treacherous if you’re not careful. From there, hole eight shifts you into the **Gauntlet**: a tight, wooded stretch where we have three back-to-back flick shots (my favorite! 😜). The final seven holes? A blend of long shots, out-of-bounds, and plenty of trees 🌲🌲🌲- fair, but demanding.
 
 ![The Lake side of Old Man disc golf course in Lewisville, Texas](/assets/images/posts/20250225-NGU-LakeBeach.jpg)
+
 *The Lake side of Old Man disc golf course in Lewisville, Texas*.
 
 ---
@@ -53,6 +54,7 @@ Once I arrive at the course, I don't actually do too much afterwards. My main fo
 All of that said - that was what I did Sunday morning! It was extra chilly and breezy that entire day, so I made sure to layer up appropriately (more lessons learned from past mistakes 🥶). The warm hat and snug gloves helped **so** much - I barely noticed the cold, thankfully. I'm convinced this helped massively!
 
 ![A friend's disc golf cart where they installed their own heater!](/assets/images/posts/20250225-NGU-Heater.jpg)
+
 *An ingenious friend of mine who installed a heater on their disc golf cart! That's one way to stay warm.*
 
 ---
@@ -84,6 +86,7 @@ But again, hole eight saved me - or rather, I saved myself. I came back and got 
 I forced myself not to check the scores. It didn’t matter what the card said. What mattered was **what I needed to do** to fight my way back.
 
 ![OP's disc laying by the basket on hole eight after a particularly good shot.](assets/images/posts/20250225-NGU-HoleEight.jpg)
+
 *Both rounds, my drives on hole eight were pretty spot on! This shows where it landed the first round after hitting the pin.*
 
 ---
@@ -95,6 +98,7 @@ It all came down to our final hole (hole seventeen in our case). Madalyn and I w
 Unfortunately, her first throw nicked a tree which kicked her immediately out of bounds. Even so, I knew it wasn't over - I had to play my game and get a par, which I am very capable of. As we played through the hole shot for shot, it became apparent that I would "win" this hole in terms of strokes, and I laid it up for an easy bogey to win the tournament by two strokes overall.
 
 ![OP after winning tournament.](/assets/images/posts/20250225-NGU-Win.jpg)
+
 *It felt good to dig deep and come back for the win!*
 
 ---
