@@ -17,7 +17,7 @@ title: "Home"
     <h3>Recent Posts ✍🏽</h3>
         <div class="blog-grid">
         <a href="/blog/2025-02-24-On-Never-Giving-Up/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250225-NGU-Win.jpg');"></div>
+            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250225-NGU-LakeBeach.jpg');"></div>
             <div class="blog-card-text">
                 <p>On Never Giving Up</p>
                 <p class="post-date">Feb 24, 2025</p>

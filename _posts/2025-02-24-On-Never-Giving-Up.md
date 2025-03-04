@@ -85,7 +85,7 @@ But again, hole eight saved me - or rather, I saved myself. I came back and got 
 
 I forced myself not to check the scores. It didn’t matter what the card said. What mattered was **what I needed to do** to fight my way back.
 
-![OP's disc laying by the basket on hole eight after a particularly good shot.](assets/images/posts/20250225-NGU-HoleEight.jpg)
+![OP's disc laying by the basket on hole eight after a particularly good shot.](/assets/images/posts/20250225-NGU-HoleEight.jpg)
 
 *Both rounds, my drives on hole eight were pretty spot on! This shows where it landed the first round after hitting the pin.*
 
