@@ -30,7 +30,7 @@ Let me digress before I get too deep into that subject because that's an entirel
 
 Something I really enjoy doing every Sunday evening is to plan out my week in my Obsidian daily log. (Again, that will one day have its own dedicated post also.) I don't stay too rigid in my scheduling - just noting any appointments or important dates to remember. Any meetings or what have you. Of course, I like to keep note of what I'm doing every day - and that includes my disc golf tournaments. 
 
-Tonight, as I sat down and looked at my calendar, it came of no surprise that this is [[DGPT Waco Annual Charity Open|Waco]] week. 
+Tonight, as I sat down and looked at my calendar, it came of no surprise that this is Waco week. 
 
 I noted it down under Friday, Saturday, and Sunday, as expected.
 
