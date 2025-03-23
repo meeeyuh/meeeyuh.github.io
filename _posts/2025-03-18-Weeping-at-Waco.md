@@ -1,6 +1,6 @@
 ---
 title: Weeping at Waco
-date: 2025-03-22
+date: 2025-03-18
 categories:
   - Disc Golf
   - Life Lessons
@@ -12,7 +12,7 @@ tags:
   - "#PostTournamentRecovery"
 image: "/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg" # Featured image for blog listing'
 description: I fought. I lost. I learned. My first DGPT event at Waco was an emotional rollercoaster- but I walked away knowing I belong.
-permalink: /blog/post-title/
+permalink: /blog/2025-03-18-Weeping-at-Waco/
 ---
 I suppose the time has finally come to put words to "paper" regarding my whole [Waco](https://www.pdga.com/tour/event/88277#FPO) experience.
 
