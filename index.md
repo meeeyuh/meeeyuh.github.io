@@ -16,6 +16,15 @@ title: "Home"
 <div class="content-box">
     <h3>Recent Posts ✍🏽</h3>
         <div class="blog-grid">
+        <a href="/blog/2025-03-22-Weeping-at-Waco/" class="blog-card">
+            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg);"></div>
+            <div class="Blog-card-text">
+                <p>Weeping at Waco</p>
+                <p class="post-date">Mar 22, 2025</p>
+            </div>
+            </a>
+        </div>
+        <div class="blog-grid">
         <a href="/blog/2025-03-09-Redemption/" class="blog-card">
             <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250309-Redemption-Beast.jpg');"></div>
             <div class="blog-card-text">

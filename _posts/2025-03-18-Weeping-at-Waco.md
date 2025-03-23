@@ -90,7 +90,7 @@ Well, because I lost said discs on the previous hole, my entire game plan for th
 
 Finally, I managed to putt out and finish the round. I knew I struggled badly in the open holes, but I suppose I didn't realize **how** badly.
 
-![Hole seventeen's tee pad.](/assets/images/posts/20250322-WeepingWaco-Hole-Seventeen.jpg)
+![Hole seventeen's tee pad.](/assets/images/posts/20250322-WeepingWaco-HoleSeventeen.jpg)
 
 *Little did I know this hole would single-handedly have me questioning my disc golf career.*
 
