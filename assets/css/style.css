@@ -1,0 +1,116 @@
+/* --- Refined Minimal Theme with Image Style --- */
+
+/* Body */
+body {
+  background-color: #111;
+  color: #ddd;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 20px 0;
+  background: #111;
+  border-bottom: 2px solid #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0.6em 0 0.4em;
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+h1 { font-size: 32px; color: #ff80ab; }
+h2 { font-size: 26px; color: #ffb74d; }
+h3 { font-size: 22px; color: #aed581; }
+
+/* Links */
+a {
+  color: #ba68c8;
+  text-decoration: none;
+  font-weight: 500;
+}
+a:hover {
+  text-decoration: underline;
+  color: #ff80ab;
+}
+
+/* Articles & Boxes */
+article, .content-box {
+  max-width: 720px;
+  margin: 30px auto;
+  padding: 20px 30px;
+  background: #181818;
+  border-radius: 8px;
+  border: 1px solid #222;
+  box-shadow: none;
+  transition: background 0.2s ease;
+}
+
+article:hover, .content-box:hover {
+  background: #1e1e1e;
+}
+
+/* Paragraphs */
+p {
+  margin: 0 0 1.5em;
+  line-height: 1.8;
+}
+
+/* Navigation */
+nav {
+  margin: 20px 0;
+  padding: 10px 0;
+  background-color: #333;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+nav ul li a {
+  font-size: 16px;
+  font-weight: 500;
+  color: #ccc;
+}
+nav ul li a:hover {
+  color: #fff;
+}
+
+/* Footer */
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  border-top: 1px solid #222;
+}
+
+/* Blog grid tighter */
+.blog-grid {
+  gap: 20px;
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+.blog-card {
+  height: 240px;
+  background: #282828;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.blog-card-text {
+  font-size: 1rem;
+  padding: 15px;
+  color: #ddd;
+}
