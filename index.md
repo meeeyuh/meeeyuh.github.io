@@ -3,8 +3,9 @@ title: "Home"
 ---
 <div class="content-box">
     <h3>Under Construction 🚧</h3>
-    <p>Please don't mind the dust as I'm actively updating my blog with some new (to you) posts and updating the decor around here.
+    <p>Please don't mind the dust as I'm actively updating my blog with some new (to you) posts and updating the decor around here.</p>
 </div>
+
 <div class="content-box">
     <h1>Welcome 🙋🏽‍♀️</h1>
     <p>I'm glad you're here! This is <b><i>Digitally Mi</i></b> - my little sliver of the internet where I break down my self-growth, disc golf adventures, and my weird guide to intentional living.</p>
