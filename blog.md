@@ -6,7 +6,7 @@ permalink: /blog/
 
 ## My Thoughts
 
-Choose how you’d like to browse my blog:
+Choose how you'd like to browse my blog:
 
 <div id="blog-controls">
     <button onclick="showByDate()">Sort by Date</button>
@@ -17,15 +17,11 @@ Choose how you’d like to browse my blog:
   <h3>Latest Posts</h3>
   <div class="blog-grid">
     {% for post in site.posts %}
-      <a href="{{ post.url }}" class="blog-card">
-        {% if post.image %}
-          <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
-            <div class="blog-card-text">
-              <h4>{{ post.title }}</h4>
-              <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-            </div>
-          </div>
-        {% endif %}
+      <a href="{{ post.url }}" class="blog-card" {% if post.image %}style="background-image: url('{{ post.image }}');"{% endif %}>
+        <div class="blog-card-text">
+          <h4>{{ post.title }}</h4>
+          <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+        </div>
       </a>
     {% endfor %}
   </div>
@@ -41,22 +37,17 @@ Choose how you’d like to browse my blog:
     <div class="blog-grid">
       {% for post in site.posts %}
         {% if post.categories contains category %}
-          <a href="{{ post.url }}" class="blog-card">
-            {% if post.image %}
-              <div class="blog-card-image" style="background-image: url('{{ post.image }}');">
-                <div class="blog-card-text">
-                  <h5>{{ post.title }}</h5>
-                  <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-                </div>
-              </div>
-            {% endif %}
+          <a href="{{ post.url }}" class="blog-card" {% if post.image %}style="background-image: url('{{ post.image }}');"{% endif %}>
+            <div class="blog-card-text">
+              <h5>{{ post.title }}</h5>
+              <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            </div>
           </a>
         {% endif %}
       {% endfor %}
     </div>
   {% endfor %}
 </div>
-
 
 <script>
   function showByDate() {
