@@ -15,7 +15,7 @@ tags:
   - Love
   - MentalHealth
   - SupportSystems
-image: "/assets/images/posts/20250209-Crossroads.jpg"  # Featured image for blog listing
+featured_image: "/assets/images/posts/20250209-Crossroads.jpg"  # Featured image for blog listing
 description: "Photo by Vladislav Babienko on Unsplash"
 permalink: /blog/2025-02-09-Corner-Grief-Cloud-Nine/
 ---

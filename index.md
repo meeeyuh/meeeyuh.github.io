@@ -19,45 +19,36 @@ title: "Home"
 
 <div class="content-box">
     <h3>Recent Posts ✍🏽</h3>
-        <div class="blog-grid">
-        <a href="/blog/2025-03-18-Weeping-at-Waco/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg');"></div>
-            <div class="Blog-card-text">
+    <div class="blog-grid">
+        <a href="/blog/2025-03-18-Weeping-at-Waco/" class="blog-card" style="background-image: url('/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg');">
+            <div class="blog-card-text">
                 <p>Weeping at Waco</p>
                 <p class="post-date">Mar 18, 2025</p>
             </div>
-            </a>
-        </div>
-        <div class="blog-grid">
-        <a href="/blog/2025-03-09-Redemption/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250309-Redemption-Beast.jpg');"></div>
+        </a>
+        
+        <a href="/blog/2025-03-09-Redemption/" class="blog-card" style="background-image: url('/assets/images/posts/20250309-Redemption-Beast.jpg');">
             <div class="blog-card-text">
                 <p>Redemption</p>
                 <p class="post-date">Mar 09, 2025</p>
             </div>
-            </a>
-        </div>
-        <div class="blog-grid">
-        <a href="/blog/2025-02-24-On-Never-Giving-Up/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250225-NGU-LakeBeach.jpg');"></div>
+        </a>
+        
+        <a href="/blog/2025-02-24-On-Never-Giving-Up/" class="blog-card" style="background-image: url('/assets/images/posts/20250225-NGU-LakeBeach.jpg');">
             <div class="blog-card-text">
                 <p>On Never Giving Up</p>
                 <p class="post-date">Feb 24, 2025</p>
             </div>
-            </a>
-        </div>
-        <div class="blog-grid">
-        <a href="/blog/2025-02-14-The-Truth/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250214-TheTruth-Sun.jpg');"></div>
+        </a>
+        
+        <a href="/blog/2025-02-14-The-Truth/" class="blog-card" style="background-image: url('/assets/images/posts/20250214-TheTruth-Sun.jpg');">
             <div class="blog-card-text">
                 <p>The Truth</p>
                 <p class="post-date">Feb 14, 2025</p>
             </div>
         </a>
-    </div>
-    <div class="blog-grid">
-        <a href="/blog/2025-02-09-Corner-Grief-Cloud-Nine/" class="blog-card">
-            <div class="blog-card-image" style="background-image: url('/assets/images/posts/20250209-Crossroads.jpg');"></div>
+        
+        <a href="/blog/2025-02-09-Corner-Grief-Cloud-Nine/" class="blog-card" style="background-image: url('/assets/images/posts/20250209-Crossroads.jpg');">
             <div class="blog-card-text">
                 <p>On the Corner of Grief and Cloud Nine</p>
                 <p class="post-date">Feb 09, 2025</p>
@@ -93,4 +84,3 @@ title: "Home"
     <h6>See You Soon!</h6>
     <p><img src="/assets/images/Mi-Enjoy-Little-Things.JPG" alt="The author Mia with a quote 'Enjoy the little things'" width="300"></p>
 </div>
-

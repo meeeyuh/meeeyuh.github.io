@@ -12,7 +12,7 @@ tags:
   - "#Personal-Growth"
   - "#Waco"
   - "#Goals"
-image: "/assets/images/posts/20250309-Redemption-Beast.jpg" # Featured image for blog listing
+featured_image: "/assets/images/posts/20250309-Redemption-Beast.jpg" # Featured image for blog listing
 description: Five years ago, I walked away from competition. Now, I’m stepping onto the Elite Series stage at Waco.
 permalink: /blog/2025-03-09-Redemption/
 ---

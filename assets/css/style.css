@@ -108,11 +108,19 @@ footer {
 .blog-card {
   max-width: 340px;
   height: 240px;
-  background: url('path-to-your-image.jpg') no-repeat center center;
+  background-repeat: no-repeat;
+  background-position: center center;
   background-size: cover;
   border-radius: 6px;
   overflow: hidden;
   position: relative;
+  background-color: #222;
+  display: block; /* Add this for anchor tags */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.blog-card:hover {
+  text-decoration: none; /* Keep no underline on hover */
 }
 
 .blog-card-text {

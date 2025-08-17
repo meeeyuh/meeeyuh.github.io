@@ -10,7 +10,7 @@ tags:
   - "#MentalGame"
   - "#DGPT"
   - "#PostTournamentRecovery"
-image: "/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg" # Featured image for blog listing'
+featured_image: "/assets/images/posts/20250322-WeepingWaco-LostDiscs.jpg" # Featured image for blog listing'
 description: I fought. I lost. I learned. My first DGPT event at Waco was an emotional rollercoaster- but I walked away knowing I belong.
 permalink: /blog/2025-03-18-Weeping-at-Waco/
 ---

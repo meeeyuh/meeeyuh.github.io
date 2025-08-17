@@ -9,7 +9,7 @@ tags:
   - MentalGame
   - Resilience
   - Mindset
-image: "/assets/images/posts/20250225-NGU-Win.jpg" # Featured image for blog listing'
+featured_image: "/assets/images/posts/20250225-NGU-Win.jpg" # Featured image for blog listing'
 description: A deep dive into my latest disc golf tournament - navigating the highs, the struggles, and the comeback that led to victory. A story of resilience, strategy, and trusting the process.
 permalink: /blog/2025-02-24-On-Never-Giving-Up/
 ---
