@@ -17,7 +17,7 @@ Choose how you'd like to browse my blog:
   <h3>Latest Posts</h3>
   <div class="blog-grid">
     {% for post in site.posts %}
-      <a href="{{ post.url }}" class="blog-card" {% if post.image %}style="background-image: url('{{ post.image }}');"{% endif %}>
+      <a href="{{ post.url }}" class="blog-card" {% if post.featured_image %}style="background-image: url('{{ post.featured_image }}');"{% endif %}>
         <div class="blog-card-text">
           <h4>{{ post.title }}</h4>
           <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
@@ -37,7 +37,7 @@ Choose how you'd like to browse my blog:
     <div class="blog-grid">
       {% for post in site.posts %}
         {% if post.categories contains category %}
-          <a href="{{ post.url }}" class="blog-card" {% if post.image %}style="background-image: url('{{ post.image }}');"{% endif %}>
+          <a href="{{ post.url }}" class="blog-card" {% if post.featured_image %}style="background-image: url('{{ post.featured_image }}');"{% endif %}>
             <div class="blog-card-text">
               <h5>{{ post.title }}</h5>
               <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
