@@ -1,14 +1,15 @@
 ---
 title: A Bird's Eye View
 date: 2025-08-15
-categories: Personal Reflections, Mental Health
+categories:
+  - Life Lessons
 tags:
   - "#MentalHealth"
   - "#Resilience"
   - "#Creativity"
   - "#Depression"
   - "#Gratitude"
-featured_image: /assets/images/posts/20250815-Birds-Eye-View.jpg/"
+featured_image: "/assets/images/posts/20250815-Birds-Eye-View.jpg/" # Featured image for blog listing
 description: A candid reflection on the challenges of writing through depression, the lessons learned during a difficult year, and the unexpected soft skills gained along the way — with gratitude for family, simple joys, and hope for better days ahead.
 permalink: /blog/2025-08-15-Birds-Eye-View/
 ---

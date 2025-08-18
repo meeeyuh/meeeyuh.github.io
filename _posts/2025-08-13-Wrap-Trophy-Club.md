@@ -1,7 +1,9 @@
 ---
 title: A Wrap on Trophy Club
 date: 2025-08-13
-categories: Disc Golf, Tournament, Life Lessons
+categories: 
+  - Disc Golf
+  - Life Lessons
 tags:
   - "#TrophyClub"
   - "#Summer"
@@ -9,7 +11,7 @@ tags:
   - "#Practice"
   - "#PodiumFinish"
   - "#Resilience"
-featured_image: "/assets/images/posts/20250813-TrophyClub-DDC.jpg/"
+featured_image: "/assets/images/posts/20250813-TrophyClub-DDC.jpg/" # Featured image for blog listing
 description: A brutally hot day, shaky putting, and low practice heading into Trophy Club left me questioning whether to finish. But by pushing through, I landed on the podium — and was reminded that if I want more, I have to put in the work.
 permalink: /blog/2025-08-13-Wrap-Trophy-Club/
 ---

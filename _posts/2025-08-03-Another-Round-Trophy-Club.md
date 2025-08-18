@@ -1,14 +1,15 @@
 ---
 title: Another Round @ Trophy Club
 date: 2025-08-03
-categories: Disc Golf, Tournament
+categories: 
+  - Disc Golf
 tags:
   - "#TournamentPreview"
   - "#TrophyClub"
   - "#Goals"
   - "#PDGA"
   - "#Mindset"
-featured_image: "assets/images/posts/20250803-AnotherRoundTC.jpg/"
+featured_image: "assets/images/posts/20250803-AnotherRoundTC.jpg/" # Featured image for blog listing
 description: After my longest break from sanctioned play in five years, I’m heading into Trophy Club with renewed focus, realistic goals, and excitement just to be back on the course.
 permalink: /blog/2025-08-03-Another-Round-Trophy-Club/
 ---
